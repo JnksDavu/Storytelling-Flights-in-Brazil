@@ -1,0 +1,1722 @@
+{
+  "SBMA": {
+    "total": 13902,
+    "delayed": 3274
+  },
+  "SAEZ": {
+    "total": 54313,
+    "delayed": 6193
+  },
+  "KMIA": {
+    "total": 32292,
+    "delayed": 4592
+  },
+  "SBGL": {
+    "total": 214360,
+    "delayed": 53318
+  },
+  "SBGR": {
+    "total": 399333,
+    "delayed": 88289
+  },
+  "SLVR": {
+    "total": 4929,
+    "delayed": 519
+  },
+  "SLLP": {
+    "total": 1096,
+    "delayed": 51
+  },
+  "KJFK": {
+    "total": 8192,
+    "delayed": 1696
+  },
+  "KDFW": {
+    "total": 2771,
+    "delayed": 678
+  },
+  "SBSV": {
+    "total": 150938,
+    "delayed": 34960
+  },
+  "SBRF": {
+    "total": 106479,
+    "delayed": 21126
+  },
+  "SUMU": {
+    "total": 18908,
+    "delayed": 1392
+  },
+  "SBCF": {
+    "total": 165262,
+    "delayed": 37240
+  },
+  "SBLP": {
+    "total": 607,
+    "delayed": 40
+  },
+  "SNGI": {
+    "total": 648,
+    "delayed": 30
+  },
+  "SBAR": {
+    "total": 21197,
+    "delayed": 2884
+  },
+  "CYYZ": {
+    "total": 1101,
+    "delayed": 814
+  },
+  "LEMD": {
+    "total": 18197,
+    "delayed": 1880
+  },
+  "LIMC": {
+    "total": 1797,
+    "delayed": 228
+  },
+  "SBNT": {
+    "total": 36965,
+    "delayed": 6847
+  },
+  "SCEL": {
+    "total": 17741,
+    "delayed": 1316
+  },
+  "LFPG": {
+    "total": 9459,
+    "delayed": 2097
+  },
+  "MMMX": {
+    "total": 3850,
+    "delayed": 208
+  },
+  "SBPA": {
+    "total": 124862,
+    "delayed": 24930
+  },
+  "SKBO": {
+    "total": 12525,
+    "delayed": 1709
+  },
+  "MDSD": {
+    "total": 172,
+    "delayed": 12
+  },
+  "SVMI": {
+    "total": 8693,
+    "delayed": 688
+  },
+  "KCLT": {
+    "total": 1142,
+    "delayed": 432
+  },
+  "LIRF": {
+    "total": 3565,
+    "delayed": 331
+  },
+  "SBRJ": {
+    "total": 172996,
+    "delayed": 31629
+  },
+  "SBKP": {
+    "total": 155351,
+    "delayed": 28542
+  },
+  "SBCG": {
+    "total": 34854,
+    "delayed": 4668
+  },
+  "SBMG": {
+    "total": 17022,
+    "delayed": 2440
+  },
+  "SBFL": {
+    "total": 54813,
+    "delayed": 8348
+  },
+  "SBVT": {
+    "total": 57632,
+    "delayed": 11629
+  },
+  "SBCT": {
+    "total": 136953,
+    "delayed": 31606
+  },
+  "SBFZ": {
+    "total": 82246,
+    "delayed": 14615
+  },
+  "SBNF": {
+    "total": 20773,
+    "delayed": 3034
+  },
+  "SBEG": {
+    "total": 71746,
+    "delayed": 10905
+  },
+  "SBMO": {
+    "total": 24281,
+    "delayed": 3371
+  },
+  "EGLL": {
+    "total": 3965,
+    "delayed": 527
+  },
+  "SKBQ": {
+    "total": 590,
+    "delayed": 0
+  },
+  "SPIM": {
+    "total": 14910,
+    "delayed": 848
+  },
+  "SEGU": {
+    "total": 3271,
+    "delayed": 99
+  },
+  "SEQU": {
+    "total": 4422,
+    "delayed": 502
+  },
+  "TNCC": {
+    "total": 533,
+    "delayed": 195
+  },
+  "MPTO": {
+    "total": 15663,
+    "delayed": 1348
+  },
+  "SACO": {
+    "total": 2384,
+    "delayed": 57
+  },
+  "MUHA": {
+    "total": 378,
+    "delayed": 8
+  },
+  "KATL": {
+    "total": 4485,
+    "delayed": 1082
+  },
+  "EDDF": {
+    "total": 9451,
+    "delayed": 941
+  },
+  "TJSJ": {
+    "total": 214,
+    "delayed": 12
+  },
+  "KLAX": {
+    "total": 1557,
+    "delayed": 191
+  },
+  "SBBR": {
+    "total": 245581,
+    "delayed": 63915
+  },
+  "FNLU": {
+    "total": 1175,
+    "delayed": 585
+  },
+  "KMEM": {
+    "total": 813,
+    "delayed": 261
+  },
+  "SOCA": {
+    "total": 410,
+    "delayed": 76
+  },
+  "SBBE": {
+    "total": 62763,
+    "delayed": 12894
+  },
+  "GOOY": {
+    "total": 3885,
+    "delayed": 655
+  },
+  "SBJP": {
+    "total": 15074,
+    "delayed": 3169
+  },
+  "SBSP": {
+    "total": 260122,
+    "delayed": 56804
+  },
+  "SBMQ": {
+    "total": 8354,
+    "delayed": 1834
+  },
+  "SBPJ": {
+    "total": 10403,
+    "delayed": 1656
+  },
+  "SBFI": {
+    "total": 23240,
+    "delayed": 3191
+  },
+  "SBCH": {
+    "total": 6366,
+    "delayed": 696
+  },
+  "SBLO": {
+    "total": 22076,
+    "delayed": 3121
+  },
+  "SBUL": {
+    "total": 25276,
+    "delayed": 4643
+  },
+  "SBCX": {
+    "total": 3515,
+    "delayed": 545
+  },
+  "SBGO": {
+    "total": 54079,
+    "delayed": 10629
+  },
+  "SBDN": {
+    "total": 8182,
+    "delayed": 1549
+  },
+  "SBCY": {
+    "total": 53816,
+    "delayed": 8947
+  },
+  "SBJV": {
+    "total": 10656,
+    "delayed": 1623
+  },
+  "SBIL": {
+    "total": 12487,
+    "delayed": 2784
+  },
+  "SBTE": {
+    "total": 15037,
+    "delayed": 2779
+  },
+  "SBBV": {
+    "total": 4497,
+    "delayed": 1008
+  },
+  "SBPS": {
+    "total": 17082,
+    "delayed": 3033
+  },
+  "SBSN": {
+    "total": 13898,
+    "delayed": 2768
+  },
+  "SBSL": {
+    "total": 27706,
+    "delayed": 5038
+  },
+  "SBKG": {
+    "total": 2181,
+    "delayed": 308
+  },
+  "SBPL": {
+    "total": 7571,
+    "delayed": 1031
+  },
+  "SBSM": {
+    "total": 3417,
+    "delayed": 1077
+  },
+  "SBFN": {
+    "total": 4165,
+    "delayed": 241
+  },
+  "SBPV": {
+    "total": 20736,
+    "delayed": 3345
+  },
+  "SBIZ": {
+    "total": 6626,
+    "delayed": 1308
+  },
+  "SBJU": {
+    "total": 7038,
+    "delayed": 1083
+  },
+  "SBNM": {
+    "total": 1605,
+    "delayed": 321
+  },
+  "SBRB": {
+    "total": 8095,
+    "delayed": 1503
+  },
+  "SBCZ": {
+    "total": 2070,
+    "delayed": 442
+  },
+  "SAAR": {
+    "total": 691,
+    "delayed": 17
+  },
+  "SGAS": {
+    "total": 8634,
+    "delayed": 1116
+  },
+  "MDPC": {
+    "total": 1113,
+    "delayed": 98
+  },
+  "KGSO": {
+    "total": 5,
+    "delayed": 0
+  },
+  "RKSI": {
+    "total": 511,
+    "delayed": 110
+  },
+  "EHAM": {
+    "total": 3454,
+    "delayed": 831
+  },
+  "SGES": {
+    "total": 2925,
+    "delayed": 452
+  },
+  "SCDA": {
+    "total": 948,
+    "delayed": 0
+  },
+  "SBHT": {
+    "total": 7118,
+    "delayed": 1273
+  },
+  "SBMD": {
+    "total": 1174,
+    "delayed": 345
+  },
+  "SYCJ": {
+    "total": 431,
+    "delayed": 57
+  },
+  "SMJP": {
+    "total": 942,
+    "delayed": 115
+  },
+  "SBRG": {
+    "total": 129,
+    "delayed": 27
+  },
+  "SBPK": {
+    "total": 2976,
+    "delayed": 580
+  },
+  "SSZR": {
+    "total": 600,
+    "delayed": 247
+  },
+  "SBUG": {
+    "total": 777,
+    "delayed": 37
+  },
+  "SBCD": {
+    "total": 1389,
+    "delayed": 274
+  },
+  "SSJA": {
+    "total": 1577,
+    "delayed": 316
+  },
+  "SBPF": {
+    "total": 2870,
+    "delayed": 662
+  },
+  "SSER": {
+    "total": 1551,
+    "delayed": 250
+  },
+  "SBCM": {
+    "total": 2027,
+    "delayed": 310
+  },
+  "SBGU": {
+    "total": 88,
+    "delayed": 10
+  },
+  "SBRP": {
+    "total": 35503,
+    "delayed": 6602
+  },
+  "SBSR": {
+    "total": 18247,
+    "delayed": 2368
+  },
+  "SWJI": {
+    "total": 568,
+    "delayed": 38
+  },
+  "SNBR": {
+    "total": 2081,
+    "delayed": 667
+  },
+  "SBQV": {
+    "total": 5765,
+    "delayed": 1295
+  },
+  "SBBH": {
+    "total": 29754,
+    "delayed": 4496
+  },
+  "SJTC": {
+    "total": 3685,
+    "delayed": 596
+  },
+  "SBML": {
+    "total": 6577,
+    "delayed": 1144
+  },
+  "SBAU": {
+    "total": 6861,
+    "delayed": 1149
+  },
+  "SBJF": {
+    "total": 7354,
+    "delayed": 1084
+  },
+  "SBMY": {
+    "total": 78,
+    "delayed": 9
+  },
+  "SWBR": {
+    "total": 74,
+    "delayed": 9
+  },
+  "SWKO": {
+    "total": 2045,
+    "delayed": 80
+  },
+  "SWMW": {
+    "total": 74,
+    "delayed": 7
+  },
+  "FACT": {
+    "total": 81,
+    "delayed": 0
+  },
+  "FAJS": {
+    "total": 2028,
+    "delayed": 189
+  },
+  "SBCA": {
+    "total": 6380,
+    "delayed": 774
+  },
+  "SBMC": {
+    "total": 958,
+    "delayed": 198
+  },
+  "SWGI": {
+    "total": 1964,
+    "delayed": 323
+  },
+  "SNDC": {
+    "total": 1827,
+    "delayed": 514
+  },
+  "SBAA": {
+    "total": 1356,
+    "delayed": 245
+  },
+  "SNKE": {
+    "total": 588,
+    "delayed": 36
+  },
+  "SBCJ": {
+    "total": 6156,
+    "delayed": 1524
+  },
+  "SDOW": {
+    "total": 3381,
+    "delayed": 913
+  },
+  "SNFX": {
+    "total": 935,
+    "delayed": 76
+  },
+  "SWFX": {
+    "total": 1319,
+    "delayed": 200
+  },
+  "SJHG": {
+    "total": 676,
+    "delayed": 121
+  },
+  "LSZH": {
+    "total": 1112,
+    "delayed": 157
+  },
+  "KMCO": {
+    "total": 1853,
+    "delayed": 115
+  },
+  "LPPT": {
+    "total": 9976,
+    "delayed": 3018
+  },
+  "LPPR": {
+    "total": 712,
+    "delayed": 131
+  },
+  "LTBA": {
+    "total": 570,
+    "delayed": 139
+  },
+  "SBCR": {
+    "total": 1330,
+    "delayed": 145
+  },
+  "SBIP": {
+    "total": 11724,
+    "delayed": 1512
+  },
+  "SBSJ": {
+    "total": 5310,
+    "delayed": 753
+  },
+  "SBTT": {
+    "total": 1658,
+    "delayed": 350
+  },
+  "SWPI": {
+    "total": 3547,
+    "delayed": 287
+  },
+  "SBTB": {
+    "total": 2754,
+    "delayed": 251
+  },
+  "SBMK": {
+    "total": 8288,
+    "delayed": 1029
+  },
+  "SBUR": {
+    "total": 6215,
+    "delayed": 809
+  },
+  "SNPD": {
+    "total": 775,
+    "delayed": 108
+  },
+  "SBAX": {
+    "total": 3196,
+    "delayed": 309
+  },
+  "SBGV": {
+    "total": 6403,
+    "delayed": 818
+  },
+  "SNJR": {
+    "total": 2107,
+    "delayed": 299
+  },
+  "SBCP": {
+    "total": 4001,
+    "delayed": 201
+  },
+  "SBME": {
+    "total": 6404,
+    "delayed": 318
+  },
+  "SWSI": {
+    "total": 4129,
+    "delayed": 768
+  },
+  "SBAT": {
+    "total": 2695,
+    "delayed": 495
+  },
+  "SSDO": {
+    "total": 2040,
+    "delayed": 365
+  },
+  "SWRD": {
+    "total": 4090,
+    "delayed": 821
+  },
+  "SBVH": {
+    "total": 2734,
+    "delayed": 360
+  },
+  "SWTP": {
+    "total": 340,
+    "delayed": 33
+  },
+  "SBUA": {
+    "total": 785,
+    "delayed": 75
+  },
+  "SWEI": {
+    "total": 633,
+    "delayed": 43
+  },
+  "SBTF": {
+    "total": 3349,
+    "delayed": 348
+  },
+  "SNDT": {
+    "total": 305,
+    "delayed": 18
+  },
+  "SWLC": {
+    "total": 1577,
+    "delayed": 201
+  },
+  "SBTU": {
+    "total": 1595,
+    "delayed": 408
+  },
+  "SWGN": {
+    "total": 3374,
+    "delayed": 567
+  },
+  "SBIH": {
+    "total": 2524,
+    "delayed": 377
+  },
+  "SBCB": {
+    "total": 2114,
+    "delayed": 99
+  },
+  "SKRG": {
+    "total": 2301,
+    "delayed": 58
+  },
+  "OMDB": {
+    "total": 1767,
+    "delayed": 445
+  },
+  "KORD": {
+    "total": 1236,
+    "delayed": 197
+  },
+  "KIAD": {
+    "total": 1993,
+    "delayed": 500
+  },
+  "SWJN": {
+    "total": 61,
+    "delayed": 3
+  },
+  "SWRP": {
+    "total": 61,
+    "delayed": 9
+  },
+  "GVAC": {
+    "total": 771,
+    "delayed": 0
+  },
+  "SWUQ": {
+    "total": 33,
+    "delayed": 0
+  },
+  "GCTS": {
+    "total": 693,
+    "delayed": 156
+  },
+  "LEBL": {
+    "total": 1132,
+    "delayed": 61
+  },
+  "ZBAA": {
+    "total": 317,
+    "delayed": 135
+  },
+  "ELLX": {
+    "total": 1134,
+    "delayed": 52
+  },
+  "EDDM": {
+    "total": 967,
+    "delayed": 125
+  },
+  "LLBG": {
+    "total": 322,
+    "delayed": 116
+  },
+  "TNCA": {
+    "total": 428,
+    "delayed": 6
+  },
+  "MMUN": {
+    "total": 246,
+    "delayed": 0
+  },
+  "SULS": {
+    "total": 409,
+    "delayed": 0
+  },
+  "TNCM": {
+    "total": 52,
+    "delayed": 0
+  },
+  "SJQK": {
+    "total": 219,
+    "delayed": 0
+  },
+  "SNOX": {
+    "total": 438,
+    "delayed": 193
+  },
+  "SBTC": {
+    "total": 519,
+    "delayed": 69
+  },
+  "SWLB": {
+    "total": 641,
+    "delayed": 124
+  },
+  "SWHT": {
+    "total": 630,
+    "delayed": 114
+  },
+  "SBLE": {
+    "total": 239,
+    "delayed": 35
+  },
+  "SBTV": {
+    "total": 3,
+    "delayed": 0
+  },
+  "SIZX": {
+    "total": 39,
+    "delayed": 0
+  },
+  "TTPP": {
+    "total": 37,
+    "delayed": 0
+  },
+  "SBCN": {
+    "total": 1457,
+    "delayed": 77
+  },
+  "RJAA": {
+    "total": 82,
+    "delayed": 0
+  },
+  "GVNP": {
+    "total": 215,
+    "delayed": 110
+  },
+  "SBDB": {
+    "total": 490,
+    "delayed": 48
+  },
+  "SDCG": {
+    "total": 317,
+    "delayed": 100
+  },
+  "SWOB": {
+    "total": 317,
+    "delayed": 69
+  },
+  "SWBC": {
+    "total": 702,
+    "delayed": 80
+  },
+  "SKMD": {
+    "total": 133,
+    "delayed": 0
+  },
+  "SVVA": {
+    "total": 993,
+    "delayed": 0
+  },
+  "MRSJ": {
+    "total": 29,
+    "delayed": 0
+  },
+  "MMMD": {
+    "total": 1124,
+    "delayed": 21
+  },
+  "SJRG": {
+    "total": 3614,
+    "delayed": 635
+  },
+  "TJBQ": {
+    "total": 648,
+    "delayed": 138
+  },
+  "KFLL": {
+    "total": 18,
+    "delayed": 0
+  },
+  "SPCL": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SNJB": {
+    "total": 1,
+    "delayed": 0
+  },
+  "GCXO": {
+    "total": 2,
+    "delayed": 0
+  },
+  "SBTR": {
+    "total": 50,
+    "delayed": 0
+  },
+  "SBAG": {
+    "total": 2,
+    "delayed": 0
+  },
+  "MROC": {
+    "total": 255,
+    "delayed": 0
+  },
+  "SDSC": {
+    "total": 387,
+    "delayed": 0
+  },
+  "SUPE": {
+    "total": 184,
+    "delayed": 9
+  },
+  "SBJR": {
+    "total": 61,
+    "delayed": 0
+  },
+  "LPFR": {
+    "total": 20,
+    "delayed": 0
+  },
+  "SVJC": {
+    "total": 8,
+    "delayed": 0
+  },
+  "SWAE": {
+    "total": 2,
+    "delayed": 0
+  },
+  "SILC": {
+    "total": 35,
+    "delayed": 0
+  },
+  "SWUY": {
+    "total": 700,
+    "delayed": 0
+  },
+  "SWCA": {
+    "total": 528,
+    "delayed": 0
+  },
+  "SABE": {
+    "total": 16323,
+    "delayed": 4478
+  },
+  "SKCL": {
+    "total": 16,
+    "delayed": 0
+  },
+  "SNRU": {
+    "total": 220,
+    "delayed": 10
+  },
+  "SBUF": {
+    "total": 169,
+    "delayed": 5
+  },
+  "SBMS": {
+    "total": 228,
+    "delayed": 41
+  },
+  "SBJI": {
+    "total": 4514,
+    "delayed": 721
+  },
+  "OTBD": {
+    "total": 921,
+    "delayed": 188
+  },
+  "SSEG": {
+    "total": 20,
+    "delayed": 0
+  },
+  "TBPB": {
+    "total": 158,
+    "delayed": 72
+  },
+  "MUSC": {
+    "total": 28,
+    "delayed": 0
+  },
+  "SNTQ": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SANT": {
+    "total": 487,
+    "delayed": 0
+  },
+  "SBAN": {
+    "total": 2,
+    "delayed": 0
+  },
+  "MKJP": {
+    "total": 14,
+    "delayed": 0
+  },
+  "SBAE": {
+    "total": 5700,
+    "delayed": 678
+  },
+  "SIXE": {
+    "total": 18,
+    "delayed": 0
+  },
+  "SBVG": {
+    "total": 1971,
+    "delayed": 283
+  },
+  "KDTW": {
+    "total": 660,
+    "delayed": 159
+  },
+  "SDAM": {
+    "total": 15,
+    "delayed": 0
+  },
+  "KBFI": {
+    "total": 20,
+    "delayed": 0
+  },
+  "SBUY": {
+    "total": 3096,
+    "delayed": 0
+  },
+  "GCLP": {
+    "total": 34,
+    "delayed": 0
+  },
+  "SNSW": {
+    "total": 6,
+    "delayed": 0
+  },
+  "SPQT": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SVMG": {
+    "total": 3,
+    "delayed": 0
+  },
+  "OMAA": {
+    "total": 3,
+    "delayed": 0
+  },
+  "SBMN": {
+    "total": 3,
+    "delayed": 0
+  },
+  "SLCB": {
+    "total": 41,
+    "delayed": 0
+  },
+  "KJAX": {
+    "total": 4,
+    "delayed": 0
+  },
+  "KRME": {
+    "total": 2,
+    "delayed": 0
+  },
+  "SVMC": {
+    "total": 1,
+    "delayed": 0
+  },
+  "GMMN": {
+    "total": 1,
+    "delayed": 0
+  },
+  "LFML": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SBBI": {
+    "total": 2,
+    "delayed": 0
+  },
+  "SNIU": {
+    "total": 4,
+    "delayed": 0
+  },
+  "GCRR": {
+    "total": 27,
+    "delayed": 0
+  },
+  "LFBO": {
+    "total": 36,
+    "delayed": 0
+  },
+  "WSSS": {
+    "total": 290,
+    "delayed": 0
+  },
+  "EDHI": {
+    "total": 21,
+    "delayed": 0
+  },
+  "EBLG": {
+    "total": 1,
+    "delayed": 0
+  },
+  "EGTE": {
+    "total": 1,
+    "delayed": 0
+  },
+  "GLCP": {
+    "total": 2,
+    "delayed": 0
+  },
+  "SDTK": {
+    "total": 3,
+    "delayed": 0
+  },
+  "KLAS": {
+    "total": 6,
+    "delayed": 0
+  },
+  "SNVB": {
+    "total": 6,
+    "delayed": 0
+  },
+  "SBBZ": {
+    "total": 6,
+    "delayed": 0
+  },
+  "SWNK": {
+    "total": 3,
+    "delayed": 0
+  },
+  "KIAH": {
+    "total": 1269,
+    "delayed": 182
+  },
+  "MGGT": {
+    "total": 8,
+    "delayed": 0
+  },
+  "SWVQ": {
+    "total": 5,
+    "delayed": 0
+  },
+  "CYMX": {
+    "total": 3,
+    "delayed": 0
+  },
+  "SNHP": {
+    "total": 3,
+    "delayed": 0
+  },
+  "SDCO": {
+    "total": 8,
+    "delayed": 0
+  },
+  "SNYB": {
+    "total": 2,
+    "delayed": 0
+  },
+  "SNVD": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SNRM": {
+    "total": 2,
+    "delayed": 0
+  },
+  "SDFX": {
+    "total": 2,
+    "delayed": 0
+  },
+  "SSIJ": {
+    "total": 6,
+    "delayed": 0
+  },
+  "SWBU": {
+    "total": 13,
+    "delayed": 0
+  },
+  "SWBI": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SURV": {
+    "total": 7,
+    "delayed": 0
+  },
+  "SDLE": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SJUQ": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SARE": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SBBQ": {
+    "total": 2,
+    "delayed": 0
+  },
+  "KGYR": {
+    "total": 2,
+    "delayed": 0
+  },
+  "SNPY": {
+    "total": 1,
+    "delayed": 0
+  },
+  "MMGL": {
+    "total": 768,
+    "delayed": 3
+  },
+  "LPAR": {
+    "total": 4,
+    "delayed": 0
+  },
+  "SWBO": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SBGP": {
+    "total": 4,
+    "delayed": 0
+  },
+  "SNMI": {
+    "total": 2,
+    "delayed": 0
+  },
+  "SNCI": {
+    "total": 1,
+    "delayed": 0
+  },
+  "KGTF": {
+    "total": 2,
+    "delayed": 0
+  },
+  "KSTL": {
+    "total": 2,
+    "delayed": 0
+  },
+  "SNAP": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SNBB": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SSQZ": {
+    "total": 3,
+    "delayed": 0
+  },
+  "SSSC": {
+    "total": 3,
+    "delayed": 0
+  },
+  "FALE": {
+    "total": 7,
+    "delayed": 0
+  },
+  "DNMM": {
+    "total": 17,
+    "delayed": 0
+  },
+  "SNDN": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SNDW": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SAZS": {
+    "total": 280,
+    "delayed": 0
+  },
+  "LFBD": {
+    "total": 6,
+    "delayed": 0
+  },
+  "SBBG": {
+    "total": 8,
+    "delayed": 0
+  },
+  "FAUP": {
+    "total": 1,
+    "delayed": 0
+  },
+  "MMAA": {
+    "total": 4,
+    "delayed": 0
+  },
+  "SJCW": {
+    "total": 2,
+    "delayed": 0
+  },
+  "SWRR": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SNVI": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SAME": {
+    "total": 11,
+    "delayed": 0
+  },
+  "KLIT": {
+    "total": 1,
+    "delayed": 0
+  },
+  "LFCF": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SWBV": {
+    "total": 4,
+    "delayed": 0
+  },
+  "SBBT": {
+    "total": 3,
+    "delayed": 0
+  },
+  "EDDT": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SNMJ": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SNRE": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SNIC": {
+    "total": 3,
+    "delayed": 0
+  },
+  "SNBZ": {
+    "total": 2,
+    "delayed": 0
+  },
+  "SDUO": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SNTF": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SWPC": {
+    "total": 2,
+    "delayed": 0
+  },
+  "SDAG": {
+    "total": 2,
+    "delayed": 0
+  },
+  "MNMG": {
+    "total": 3,
+    "delayed": 0
+  },
+  "SBAQ": {
+    "total": 4,
+    "delayed": 0
+  },
+  "KAUS": {
+    "total": 10,
+    "delayed": 0
+  },
+  "SARI": {
+    "total": 470,
+    "delayed": 109
+  },
+  "SBZM": {
+    "total": 860,
+    "delayed": 117
+  },
+  "SBTD": {
+    "total": 753,
+    "delayed": 24
+  },
+  "SSUM": {
+    "total": 622,
+    "delayed": 24
+  },
+  "SDZY": {
+    "total": 144,
+    "delayed": 0
+  },
+  "SSFB": {
+    "total": 458,
+    "delayed": 114
+  },
+  "SBJD": {
+    "total": 102,
+    "delayed": 0
+  },
+  "SNDR": {
+    "total": 1,
+    "delayed": 0
+  },
+  "KHSV": {
+    "total": 84,
+    "delayed": 0
+  },
+  "EHWO": {
+    "total": 25,
+    "delayed": 0
+  },
+  "DGAA": {
+    "total": 5,
+    "delayed": 0
+  },
+  "SNAV": {
+    "total": 4,
+    "delayed": 0
+  },
+  "SWKC": {
+    "total": 3,
+    "delayed": 0
+  },
+  "KRFD": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SWIQ": {
+    "total": 359,
+    "delayed": 65
+  },
+  "KEWR": {
+    "total": 772,
+    "delayed": 126
+  },
+  "KBOS": {
+    "total": 180,
+    "delayed": 18
+  },
+  "KSFO": {
+    "total": 57,
+    "delayed": 3
+  },
+  "KMSY": {
+    "total": 110,
+    "delayed": 11
+  },
+  "EHBK": {
+    "total": 155,
+    "delayed": 91
+  },
+  "SJZT": {
+    "total": 1,
+    "delayed": 0
+  },
+  "KTUS": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SSKW": {
+    "total": 893,
+    "delayed": 147
+  },
+  "SNKI": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SNTR": {
+    "total": 2,
+    "delayed": 0
+  },
+  "LEMS": {
+    "total": 2,
+    "delayed": 0
+  },
+  "SWNS": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SWGP": {
+    "total": 9,
+    "delayed": 0
+  },
+  "SAZE": {
+    "total": 4,
+    "delayed": 0
+  },
+  "SWDG": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SJLU": {
+    "total": 2,
+    "delayed": 0
+  },
+  "KPBI": {
+    "total": 3,
+    "delayed": 0
+  },
+  "SWQR": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SWDE": {
+    "total": 3,
+    "delayed": 0
+  },
+  "SNGG": {
+    "total": 2,
+    "delayed": 0
+  },
+  "SNBU": {
+    "total": 4,
+    "delayed": 0
+  },
+  "SJLM": {
+    "total": 2,
+    "delayed": 0
+  },
+  "KBNA": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SWHG": {
+    "total": 10,
+    "delayed": 0
+  },
+  "SDMC": {
+    "total": 4,
+    "delayed": 0
+  },
+  "SIRI": {
+    "total": 2,
+    "delayed": 0
+  },
+  "SSCK": {
+    "total": 169,
+    "delayed": 35
+  },
+  "KIND": {
+    "total": 2,
+    "delayed": 0
+  },
+  "SJXS": {
+    "total": 4,
+    "delayed": 0
+  },
+  "SWHP": {
+    "total": 3,
+    "delayed": 0
+  },
+  "SWRS": {
+    "total": 1,
+    "delayed": 0
+  },
+  "KDAL": {
+    "total": 1,
+    "delayed": 0
+  },
+  "KRSW": {
+    "total": 1,
+    "delayed": 0
+  },
+  "MYNN": {
+    "total": 2,
+    "delayed": 0
+  },
+  "SBES": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SBYS": {
+    "total": 3,
+    "delayed": 0
+  },
+  "SPLP": {
+    "total": 2,
+    "delayed": 0
+  },
+  "SNBA": {
+    "total": 7,
+    "delayed": 0
+  },
+  "SNQU": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SNIP": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SBBU": {
+    "total": 2,
+    "delayed": 0
+  },
+  "KPHL": {
+    "total": 3,
+    "delayed": 0
+  },
+  "EDDR": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SBCI": {
+    "total": 1,
+    "delayed": 0
+  },
+  "TAPA": {
+    "total": 1,
+    "delayed": 0
+  },
+  "KOKC": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SBDO": {
+    "total": 288,
+    "delayed": 29
+  },
+  "SDRS": {
+    "total": 424,
+    "delayed": 8
+  },
+  "SELT": {
+    "total": 36,
+    "delayed": 25
+  },
+  "PANC": {
+    "total": 47,
+    "delayed": 0
+  },
+  "MMPR": {
+    "total": 2,
+    "delayed": 0
+  },
+  "RJCC": {
+    "total": 1,
+    "delayed": 0
+  },
+  "KPAE": {
+    "total": 3,
+    "delayed": 0
+  },
+  "EDDV": {
+    "total": 1,
+    "delayed": 0
+  },
+  "EGNX": {
+    "total": 2,
+    "delayed": 0
+  },
+  "GBYD": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SNLN": {
+    "total": 1,
+    "delayed": 0
+  },
+  "LMML": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SBPC": {
+    "total": 1,
+    "delayed": 0
+  },
+  "OMSJ": {
+    "total": 11,
+    "delayed": 0
+  },
+  "SDUB": {
+    "total": 2,
+    "delayed": 0
+  },
+  "SWYY": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SWDB": {
+    "total": 1,
+    "delayed": 0
+  },
+  "FGSL": {
+    "total": 3,
+    "delayed": 0
+  },
+  "SNMH": {
+    "total": 3,
+    "delayed": 0
+  },
+  "SIMK": {
+    "total": 2,
+    "delayed": 0
+  },
+  "FYWH": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SJGU": {
+    "total": 2,
+    "delayed": 0
+  },
+  "DNPO": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SCIE": {
+    "total": 1,
+    "delayed": 0
+  },
+  "HKJK": {
+    "total": 3,
+    "delayed": 0
+  },
+  "EGSS": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SNXL": {
+    "total": 1,
+    "delayed": 0
+  },
+  "SBBW": {
+    "total": 1,
+    "delayed": 0
+  },
+  "EGPK": {
+    "total": 1,
+    "delayed": 0
+  },
+  "KELP": {
+    "total": 1,
+    "delayed": 0
+  },
+  "EBCI": {
+    "total": 7,
+    "delayed": 0
+  },
+  "VHHH": {
+    "total": 6,
+    "delayed": 0
+  },
+  "FLLS": {
+    "total": 1,
+    "delayed": 0
+  },
+  "EDFH": {
+    "total": 2,
+    "delayed": 0
+  }
+}

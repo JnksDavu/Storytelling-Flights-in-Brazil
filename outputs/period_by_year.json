@@ -1,0 +1,86 @@
+{
+  "2001": {
+    "Madrugada": {
+      "total": 1,
+      "delayed": 0
+    }
+  },
+  "2009": {
+    "Madrugada": {
+      "total": 28,
+      "delayed": 0
+    }
+  },
+  "2010": {
+    "Manhã": {
+      "total": 340672,
+      "delayed": 63542
+    },
+    "Noite": {
+      "total": 303994,
+      "delayed": 75211
+    },
+    "Madrugada": {
+      "total": 152940,
+      "delayed": 16698
+    },
+    "Tarde": {
+      "total": 328193,
+      "delayed": 71280
+    }
+  },
+  "2011": {
+    "Madrugada": {
+      "total": 170405,
+      "delayed": 19670
+    },
+    "Manhã": {
+      "total": 376625,
+      "delayed": 70126
+    },
+    "Tarde": {
+      "total": 374170,
+      "delayed": 83606
+    },
+    "Noite": {
+      "total": 331690,
+      "delayed": 84179
+    }
+  },
+  "2012": {
+    "Madrugada": {
+      "total": 165850,
+      "delayed": 14584
+    },
+    "Manhã": {
+      "total": 387463,
+      "delayed": 64389
+    },
+    "Noite": {
+      "total": 345847,
+      "delayed": 77131
+    },
+    "Tarde": {
+      "total": 390128,
+      "delayed": 77777
+    }
+  },
+  "2013": {
+    "Madrugada": {
+      "total": 59,
+      "delayed": 2
+    },
+    "Tarde": {
+      "total": 7,
+      "delayed": 0
+    },
+    "Manhã": {
+      "total": 15,
+      "delayed": 0
+    },
+    "Noite": {
+      "total": 3,
+      "delayed": 0
+    }
+  }
+}

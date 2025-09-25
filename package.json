@@ -1,0 +1,19 @@
+{
+  "name": "flight-delays-br-dashboard",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Análise e storytelling de atrasos de voos no Brasil (ANAC VRA)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "NODE_ENV=development node server.js",
+    "build:preagg": "node tools/preaggregate.js"
+  },
+  "dependencies": {
+    "csv-parse": "^5.6.0",
+    "dayjs": "^1.11.13",
+    "express": "^4.19.2",
+    "fs-extra": "^11.2.0",
+    "glob": "^11.0.0"
+  }
+}
