@@ -41,3 +41,11 @@ data/
 - Companhia que mais atrasa (por ano)  
 
 **Critério de atraso:** chegada (ou partida, se falta chegada) ≥ 15 minutos, ou status “ATRASADO”.
+
+## Resultado
+<img width="1902" height="930" alt="image" src="https://github.com/user-attachments/assets/f7b91be5-3a29-4cc4-a004-6e9eb0892f26" />
+
+<img width="1888" height="552" alt="image" src="https://github.com/user-attachments/assets/40bdc7aa-b89f-45d3-9199-9cabf3da2b3a" />
+
+<img width="1894" height="950" alt="image" src="https://github.com/user-attachments/assets/65471195-dadc-4a37-932e-d8f875b01c5f" />
+
