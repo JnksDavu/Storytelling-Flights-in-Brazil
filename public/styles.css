@@ -1,0 +1,13 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: Arial, sans-serif; background: #ffffff; color: #222; }
+header { padding: 24px; background: #f5f5f5; border-bottom: 1px solid #ddd; }
+h1 { margin: 0 0 8px; }
+.grid-cards { display: grid; gap: 16px; grid-template-columns: repeat(3, minmax(0, 1fr)); padding: 16px 24px; }
+.grid-2 { display: grid; gap: 16px; grid-template-columns: repeat(2, minmax(0, 1fr)); padding: 16px 24px; }
+.grid-1 { display: grid; gap: 16px; grid-template-columns: 1fr; padding: 16px 24px; }
+.card, .panel { background: #fafafa; border: 1px solid #ddd; border-radius: 10px; padding: 16px; }
+.kpi { font-size: 32px; font-weight: 700; color: #0073e6; }
+table { width: 100%; border-collapse: collapse; }
+th, td { border-bottom: 1px solid #eee; padding: 8px; text-align: left; font-size: 14px; }
+th { color: #333; background: #f9f9f9; }
+footer { padding: 16px 24px; color: #555; background: #f5f5f5; }

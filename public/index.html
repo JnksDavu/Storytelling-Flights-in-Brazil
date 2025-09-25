@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Dashboard de Atrasos - ANAC VRA</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  </head>
+  <body>
+    <header>
+      <h1>Análise de Atrasos em Voos no Brasil</h1>
+    </header>
+
+    <!-- KPIs principais -->
+    <section id="cards" class="grid-cards">
+      <div class="card">
+        <h3>Total de voos</h3>
+        <div class="kpi" id="kpi-total">—</div>
+      </div>
+      <div class="card">
+        <h3>Total com atraso (≥15 min)</h3>
+        <div class="kpi" id="kpi-delayed">—</div>
+      </div>
+      <div class="card">
+        <h3>Taxa de atraso</h3>
+        <div class="kpi" id="kpi-rate">—</div>
+      </div>
+    </section>
+
+    <!-- Destaque: aeroporto com mais atrasos -->
+    <section class="grid-1">
+      <div class="panel">
+        <h3>Aeroporto com mais atrasos (geral)</h3>
+        <p id="highlight-airport">—</p>
+      </div>
+    </section>
+
+    <!-- Evolução de atrasos -->
+    <section class="grid-2">
+      <div class="panel">
+        <h3>Top aeroportos por atrasos</h3>
+        <table id="tbl-airports">
+          <thead>
+            <tr>
+              <th>Aeroporto</th>
+              <th>Atrasos</th>
+              <th>Total</th>
+              <th>%</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+      <div class="panel">
+        <h3>Tendência anual de atrasos</h3>
+        <canvas id="chart-trend"></canvas>
+        <p id="trend-analysis">—</p>
+      </div>
+    </section>
+
+    <!-- Dias da semana e períodos do dia -->
+    <section class="grid-2">
+      <div class="panel">
+        <h3>Dias da semana com mais atrasos (por ano)</h3>
+        <canvas id="chart-dow"></canvas>
+      </div>
+      <div class="panel">
+        <h3>Período do dia com mais atrasos (por ano)</h3>
+        <canvas id="chart-period"></canvas>
+      </div>
+    </section>
+
+    <!-- Companhias -->
+    <section class="grid-1">
+      <div class="panel">
+        <h3>Companhia que mais atrasa (por ano)</h3>
+        <canvas id="chart-airline"></canvas>
+      </div>
+    </section>
+    <!-- Função fetch com tratamento de erro -->
+    <script>
+      async function fetchJSON(url) {
+        try {
+          const r = await fetch(url);
+          if (!r.ok) throw new Error("HTTP " + r.status);
+          return await r.json();
+        } catch (err) {
+          console.error("Erro ao buscar", url, err);
+          return { error: String(err) };
+        }
+      }
+    </script>
+
+    <script src="app.js"></script>
+  </body>
+</html>
